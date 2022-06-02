@@ -1,1 +1,1 @@
-# nubestech_b2bcle_lazarevic_konstantin
+# B2B Commerce on Lightning Experience training
